@@ -1,0 +1,61 @@
+.home{
+    width: 1440px;
+    height: 596px;
+    background-color: #87509c;
+}
+
+.logo{
+    width: 116px;
+    height: 36px;
+    border-radius: 4px;
+    color: #ffffff;
+}
+
+.services{
+    width: 1440px;
+    height: 747px;
+    background-color: #17c2a4;
+}
+
+.team{
+    width: 1440px;
+    height: 914px;
+    background-color: #e7f1f8;
+}
+
+.skills{
+    width: 1440px;
+    height: 655px;
+    background-color: #ffffff;
+}
+
+.portfolio{
+    width: 1440px;
+    height: 1423px;
+    background-color: #ffdd99;
+}
+
+.testimonials{
+    width: 1440px;
+    height: 894px;
+    background-color: #d74680;
+}
+
+.boton{
+    width: 293px;
+    height: 70px;
+    border-radius: 0px;
+    background-color: #eb7d4b;
+}
+
+.contact{
+    width: 1440px;
+    height: 819px;
+    background-color: #3c5499;
+}
+
+footer{
+    width: 1440px;
+    height: 112px;
+    background-color: #344b8e;
+}
