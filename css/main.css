@@ -34,22 +34,23 @@
     background-color: #d74680;
 }
 
-.boton{
+.boton-work{
     width: 293px;
     height: 70px;
     border-radius: 4px;
     background-color: #eb7d4b;
     border: 1px solid  #eb7d4b;
+    color: white
 }
 
-button{
-    width: 116px;
-    height: 36px;
+.boton-send{
+    width: 293px;
+    height: 70px;
     border-radius: 4px;
-    background-color: #ffffff;
+    background-color: #30bae7;
+    border-style: hidden;
     color: white;
 }
-
 
 .contact{
     height: 819px;
@@ -103,13 +104,9 @@ footer{
     border: 1px solid  #eb7d4b;
 }
 
-button{
-    width: 116px;
-    height: 36px;
-    border-radius: 4px;
-    background-color: #ffffff;
-    color: white;
-}
+
+
+
 
 
 .contact{
@@ -120,4 +117,26 @@ button{
 footer{
     height: 112px;
     background-color: #344b8e;
+}
+
+.caja-texto{
+    width: 414px;
+    height: 56px;
+    background-color: #273a71;
+    color: white;
+    border-radius: 4px;
+    border-style: hidden;
+    font-size: 18px;
+    line-height: 18px;
+    font-family: "Titillium Web";
+    font-weight: 400;
+}
+
+#text-area{
+    width: 860px;
+    height: 200px;
+    border-radius: 4px;
+    background-color: #273a71;
+    border-style: hidden;
+    color: white;
 }
